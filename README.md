@@ -18,14 +18,14 @@ Um palíndromo é uma palavra que se soletra da mesma forma nos dois sentidos, c
 3. a torre da derrota
 4. o lobo ama o bolo
 Construa a função inverso(texto) que receba um texto qualquer como argumento e retorne esse texto em ordem inversa. Em seguida, use esta função para checar se um texto é palíndromo ou não.
-1. Exemple / Exemplo
+1. Example / Exemplo
 ```py
 
 Digite o texto: anotaram a data da maratona
 O inverso de 'anotaramadatadamaratona' é 'anotaramadatadamaratona'
 Temos um palíndromo!
 ```
-2. Exemple / Exemplo
+2. Example / Exemplo
 ```py
 
 
